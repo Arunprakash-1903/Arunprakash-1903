@@ -17,7 +17,7 @@ Currently, I work at **Dhvani Analytical Intelligence**, where I design and depl
 
 ---
 
-## 🔬 What I Do  
+## What I Do  
 
 -  **Object Detection & Segmentation** — trained and fine-tuned **YOLOv5/v11** models for weld defect detection  
 -  **Image Enhancement with GANs** — built **Pix2Pix** and **StyleGAN2-ADA** models for low-exposure image enhancement and synthetic data generation  
@@ -27,7 +27,7 @@ Currently, I work at **Dhvani Analytical Intelligence**, where I design and depl
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 | Category | Tools & Frameworks |
 |-----------|-------------------|
@@ -56,7 +56,7 @@ Built a real-time tracking system with consistent vehicle ID mapping and visual 
 
 ---
 
-## 📈 Current Focus  
+##  Current Focus  
 
 - Improving **model generalization** across low-light and industrial datasets  
 - Exploring **diffusion-based generative models** for high-resolution image enhancement  
