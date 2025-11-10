@@ -40,19 +40,7 @@ Currently, I work at **Dhvani Analytical Intelligence**, where I design and depl
 
 ---
 
-##  Featured Projects  
 
-### 🔹 [Weld Defect Detection & Segmentation (YOLOv5)](#)
-Improved weld defect detection accuracy by **18%** and reduced false detections by **25%** using optimized anchors and thresholds.  
-
-### 🔹 [Pix2Pix Image Enhancement](#)
-Developed a GAN model to enhance underexposed X-ray weld images, improving visibility by **30%** and replacing legacy C++ enhancement DLLs.  
-
-### 🔹 [Synthetic Data Generation (StyleGAN2-ADA)](#)
-Generated 512×512 synthetic weld X-rays to address dataset imbalance, boosting downstream model accuracy by **15%**.  
-
-### 🔹 [License Plate Tracking (YOLOv11 + SORT)](#)
-Built a real-time tracking system with consistent vehicle ID mapping and visual overlays on video frames.  
 
 ---
 
