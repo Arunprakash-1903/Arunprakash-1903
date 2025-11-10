@@ -67,7 +67,7 @@ Built a real-time tracking system with consistent vehicle ID mapping and visual 
 ##  Let’s Connect  
 
 📧 **Email:** [arunprakash2225@gmail.com](mailto:arunprakash2225@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/arun-prakash](https://www.linkedin.com/in/arunprakash1903/)](https://www.linkedin.com/in/arunprakash1903/)  
+💼 **LinkedIn:** [linkedin.com/in/arun-prakash](https://www.linkedin.com/in/arunprakash1903/)
 
 
 ---
